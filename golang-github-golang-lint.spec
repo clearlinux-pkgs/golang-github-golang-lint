@@ -1,6 +1,6 @@
 Name     : golang-github-golang-lint
 Version  : c7bacac2b21ca01afa1dee0acf64df3ce047c28f
-Release  : 1
+Release  : 2
 URL      : https://github.com/golang/lint/archive/c7bacac2b21ca01afa1dee0acf64df3ce047c28f.tar.gz
 Source0  : https://github.com/golang/lint/archive/c7bacac2b21ca01afa1dee0acf64df3ce047c28f.tar.gz
 Summary  : No detailed summary available
